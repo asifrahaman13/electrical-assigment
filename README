@@ -1,0 +1,27 @@
+Group members:
+
+1.Asif Rahaman(12140340)
+2.Anand Prakash Thakur(12140250)
+3.Aditya Dubey(12140100)
+4.Sunil Kumar(12141620)
+
+Professor:
+
+Professor Arzad Kherani
+
+
+1)The assignment:
+
+a) install yodel  (https://pypi.org/project/yodel/)
+b) go through the demo fourier_analysis.py
+c) implement a frequency equalizer for a stored voice signal (https://publish.illinois.edu/augmentedlistening/tutorials/music-processing/tutorial-1-introduction-to-audio-processing-in-python/)
+d) implement a filter using inverse Fourier transform to suppress a few frequency components from the desired signal (hint: already a part of the demo of Yodel)
+
+
+2)install the libraries with the following commands:
+
+pip install numpy matplotlib scipy IPython
+
+3)Two audio files are provided for demonstration purposes:
+1.first.wav
+2.second.wav
